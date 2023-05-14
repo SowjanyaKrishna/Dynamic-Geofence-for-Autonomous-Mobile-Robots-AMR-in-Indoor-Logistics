@@ -20,9 +20,10 @@ This installs all the required packages mentioned in the requirements.txt file.
 4. The virtual environment files are stored in the name venv and can be found in the project directory.
 
 5. The system needs to use this virtual environment. To activate the virtual environment, use the following command:
+
 For linux machine-
   
-    $ source *syn_back folder location*/venv/bin/activate
+     $ source *syn_back folder location*/venv/bin/activate
     
 Eg: $ source /Users/’Username’/Downloads/syn_back/venv/bin/activate
 
