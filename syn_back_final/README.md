@@ -1,6 +1,8 @@
 # Flask Backend of Synergieregion Project
 Backend Installation
 syn_back folder is the backend of the Dynamic Geofence Application, implemented in flask microframework. Below mentioned figure shows the overview of it.
+
+
 ![image](https://github.com/SowjanyaKrishna/Dynamic-Geofence-for-Autonomous-Transport-Robots-AGV-in-Indoor-Logistics/assets/128833366/a28bb23a-3be0-4dc0-b38c-442d72c3dfe0)
 
 
