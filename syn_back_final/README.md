@@ -22,13 +22,13 @@ This installs all the required packages mentioned in the requirements.txt file.
 5. The system needs to use this virtual environment. To activate the virtual environment, use the following command:
 For linux machine-
   
-  $ source *syn_back folder location*/venv/bin/activate
+    $ source *syn_back folder location*/venv/bin/activate
     
 Eg: $ source /Users/’Username’/Downloads/syn_back/venv/bin/activate
 
 For windows machine-
  
- $ *syn_back folder location* \venv\Scripts\activate
+    $ *syn_back folder location* \venv\Scripts\activate
  
 Eg: C:\Users\'Username'\venv\Scripts\activate
 
