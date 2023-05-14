@@ -35,3 +35,7 @@ Eg: C:\Users\'Username'\venv\Scripts\activate
 
 6. Flask needs to be told how to import it, by setting the FLASK_APP environment variable:
 (venv)$ export FLASK_APP=syn_back.py
+
+## Backend-MQTT communication
+![image](https://github.com/SowjanyaKrishna/Dynamic-Geofence-for-Autonomous-Transport-Robots-AGV-in-Indoor-Logistics/assets/128833366/8356379d-6e8b-4b64-bded-580fb34d43ff)
+
